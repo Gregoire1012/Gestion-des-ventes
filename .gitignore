@@ -1,0 +1,13 @@
+# Ignorer les fichiers temporaires et de cache
+node_modules/
+vendor/
+*.log
+*.tmp
+
+# Ignorer les fichiers Bootstrap et FontAwesome (trop lourds)
+bootstrap-3.4.1/
+font-awesome-4.7.0/
+
+# Ignorer les fichiers systèmes
+.DS_Store
+Thumbs.db
